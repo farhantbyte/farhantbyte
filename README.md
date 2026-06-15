@@ -5,14 +5,14 @@ Farrehan is here and :
 - 🔭 I’m currently working on Webha project The ADJMI DSL-LIKE-TEMPLATE-ENGINE
 - 🌱 I’m currently learning assembly x86-64
 
-<div>
+<!-- <div>
   <p>
     🎵 This profile has profile music! Enable
     <a href="https://github.com/your-username/gittymusic">gittymusic</a>
     extension to play it
   </p>
   <div></div>
-</div>
+</div> -->
 
 
 <!--
